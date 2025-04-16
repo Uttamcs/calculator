@@ -1,0 +1,2 @@
+# Requirements for the calculator application
+# Tkinter is included in the Python standard library, so no external packages are required
